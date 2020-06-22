@@ -1,5 +1,6 @@
-Para ter acesso a todos os documentos de elaboração do projeto, acesse:
+Projeto idealizado e liderado por mim no programa de mentoria e aceleração de carreira Diox Squad da Digital Innovation One.
 
+Você pode acessar a documentação completa do projeto no link:
 https://drive.google.com/drive/folders/1C-QSi86vf10eLaAvMlpN9nyz8RFr_b95?usp=sharing
 
 
