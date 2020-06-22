@@ -1,6 +1,4 @@
-
-
-###Para ter acesso a todos os documentos de elaboração do projeto, acesse:###
+Para ter acesso a todos os documentos de elaboração do projeto, acesse:
 
 https://drive.google.com/drive/folders/1C-QSi86vf10eLaAvMlpN9nyz8RFr_b95?usp=sharing
 
